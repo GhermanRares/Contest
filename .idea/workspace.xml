@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d761725-ee76-4c54-aed9-1afcf141d7a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26O7pAE8aVESo829v23CTy7rbhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.StartClient">
+    <configuration name="StartClient" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="client.StartRpcClientFX" />
+      <module name="Contest.ChatClientFX.main" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\Rares\openjfx-18_windows-x64_bin-sdk\javafx-sdk-18\lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="StartRpcServer" />
+      <module name="Contest.ChatServer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartClient" />
+      <item itemvalue="Application.StartServer" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d761725-ee76-4c54-aed9-1afcf141d7a8" name="Changes" comment="" />
+      <created>1647282959653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647282959653</updated>
+      <workItem from="1647282961426" duration="119000" />
+      <workItem from="1647283776318" duration="3673000" />
+      <workItem from="1647289271381" duration="44000" />
+      <workItem from="1649092721567" duration="47000" />
+      <workItem from="1649094391291" duration="4297000" />
+      <workItem from="1649152762026" duration="7000" />
+      <workItem from="1650308620990" duration="4405000" />
+      <workItem from="1650362216899" duration="8000" />
+      <workItem from="1651693232181" duration="3015000" />
+      <workItem from="1651696506900" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

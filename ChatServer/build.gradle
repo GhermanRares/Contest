@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':ChatModel')
+    compile project (':ChatServices')
+    compile project (':ChatPersistence')
+    compile project (':ChatNetworking')
+    implementation 'org.springframework:spring-context:5.2.3.RELEASE'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    //testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+/*test {
+    useJUnitPlatform()
+}*/
